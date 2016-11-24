@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MAIN MENU</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="achievements">ACHIEVEMENTS</string>
+    <string name="my_scores">MY SCORES</string>
+    <string name="play">PLAY</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="level1">LEVEL 1</string>
+    <string name="level2">LEVEL 2</string>
+    <string name="level3">LEVEL 3</string>
+    <string name="level4">LEVEL 4</string>
+    <string name="level5">LEVEL 5</string>
+    <string name="checkmark">checkmark</string>
+    <string name="objective">Objective: move the red car to the exit. \n
+    Horizontal cars can move left and right. \n
+    Vertical cars can move up and down. \n
+    If you click on a car, the possible moves appear as buttons. \n </string>
+</resources>
